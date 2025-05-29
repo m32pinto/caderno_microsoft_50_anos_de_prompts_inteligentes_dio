@@ -2,9 +2,9 @@
 
 ## 📚ATIVIDADE 01 : Projeto API de Gerenciamento de Produtos.
 
-> Respostas no seguinte arquivo abaixo:
+> Respostas na pasta abaixo:
 
-- [Atividade_1_API 🛠️](Atividade_1_API)
+- Atividade_1_API 🛠️
 
 > ℹ️ **NOTE:** o link do repositório para explicação se encontra [AQUI](https://github.com/alinealien/boas-praticas-para-IAs.git)
 
